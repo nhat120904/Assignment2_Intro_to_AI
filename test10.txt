@@ -1,0 +1,4 @@
+TELL
+a => (b => (c => ~d)); a; c => ~d; b;
+ASK
+a => (a => b) 
